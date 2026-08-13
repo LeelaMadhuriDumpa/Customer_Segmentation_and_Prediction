@@ -1,3 +1,6 @@
+# Google Colab 
+https://colab.research.google.com/drive/1EWuxwkBuzvY-rwAoBu-fp1jZS4z6kiti?usp=sharing 
+
 # Customer Segmentation and Prediction
 
 ## Project Overview
